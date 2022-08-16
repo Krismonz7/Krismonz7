@@ -2,7 +2,7 @@
 
 <h2> I'm Cristian Monzon!</h2>
 
-[![Linkedin: Cristian Monzon](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link/)](https://www.linkedin.com/in/cristian-monzon/)
+[![Linkedin: Cristian Monzon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/cristian-monzon/)
 [![GitHub Krismonz7](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Krismonz7)
 
 
