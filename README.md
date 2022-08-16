@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-<h2> Hi, I'm Cristian Monzon!</h2>
+<h2> I'm Cristian Monzon!</h2>
 
-[![Linkedin: Cristian Monzon](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: Cristian Monzon](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crsitian-monzon/)](www.linkedin.com/in/cristian-monzon)
+[![GitHub Krismonz7](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Krismonz7)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Krizmons7 = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React , Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  pronouns: "he" | "him",
+  code: [Javascript, SQL , HTML, CSS],
+  tools: [React.js , Node, Styled-Components, Jest, SASS , ]
 }
 ```
 
@@ -21,7 +20,7 @@ const Krizmons7 = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@Krismonz7](https://github.com/Krismonz7)
 
 <!--
 **Krismonz7/Krismonz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
